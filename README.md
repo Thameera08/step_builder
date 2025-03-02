@@ -1,17 +1,21 @@
-# step_builder_example
+# Step Builder
 
-A new Flutter project.
+A Flutter package that simplifies step-based UI navigation.
 
-## Getting Started
+## Developer 
 
-This project is a starting point for a Flutter application.
+- Thameera Dananjaya 
+- Flutter Developer 
 
-A few resources to get you started if this is your first Flutter project:
+## Features
+- Easily create multi-step workflows
+- Customizable navigation
+- Supports dynamic step content
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# step_builder
+Add this to your `pubspec.yaml`:
+
+```yaml
+dependencies:
+  step_builder: ^1.0.0
